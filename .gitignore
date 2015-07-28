@@ -55,3 +55,14 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+# Gedit
+*~
+
+# Jupyter (ipython)
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Pypot record files
+*.record
