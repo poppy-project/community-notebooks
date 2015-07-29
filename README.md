@@ -8,4 +8,4 @@ Add here notebooks usefull for a demonstration of a poppy creature.
 Add here notebooks with an educational benefit for the user.
 
 ### Debug
-Add hetre notebooks usefull for solving material issue (like broken wires) in a poppy creature
+Add here notebooks usefull for solving material issue (like broken wires) in a poppy creature
