@@ -4,3 +4,7 @@ Feel free to add your notebook with the following rules:
 
 Some filename examples: 
 * poppy-torso_poppy-humanoid_poppy-ergo__find_broken_wires.ipynb
+
+Contents:
+* **xl320_low_level_and_creature_test**: test your XL-320 motors, instanciate your custom robot and save its configuration file
+* **poppy-torso_poppy-humanoid_poppy-ergo__motor_scan**: find the ports and scan the motors to see if some are missing.
