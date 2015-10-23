@@ -47,7 +47,7 @@ possible and merge it if possible.
 ---
 
 # Community-notebooks (fr)
-Cette endroit est un receuille de notebooks pour interagir avec une creature Poppy.
+Cet endroit est un receuil de notebooks pour interagir avec une creature Poppy.
 
 **Vous ne savez ce qu'est une notebook? Lisez la documentation, elle est disponible ici:** [Poppy documentation](http://poppy-project.github.io/poppy-docs/).
 <br/>
@@ -60,21 +60,21 @@ Ajoutez ici les notebooks utiles pour réaliser des démonstrations.
 Ajoutez ici les notebooks qui ont un bénéfice éducatif pour leur utilisateur.
 
 ### Debug
-Ajoutez ici les notebooks utiles pour résoudre des bug matériel (exemple: des fils cassé) dans une créature Poppy.
+Ajoutez ici les notebooks utiles pour résoudre des bug matériel (exemple: des fils cassés) dans une créature Poppy.
 
 ___
 
 ## Utiliser Git et Github (extrait de [popp-doc/contribute](http://poppy-project.github.io/poppy-docs/gettingstarted/contribute.html#contribute) (en))
 
 
-Toutes les sources du projet Poppy (software et hardware) sont disponible sur notre [Github](https://github.com/poppy-project).
+Toutes les sources du projet Poppy (software et hardware) sont disponibles sur notre [Github](https://github.com/poppy-project).
 
-Si vous voulez modifier ou ajouter des fichiers sur un dépôt (repository), créez vous un compte Github (c'est grtuit biensûr) et ensuite effectuez un
+Si vous voulez modifier ou ajouter des fichiers sur un dépôt (repository), créez vous un compte Github (c'est gratuit biensûr) et ensuite effectuez un
 ["fork"](https://help.github.com/articles/fork-a-repo/) du dépôt. Puis, lorsque votre modification est créée et testée, faite une ["pull
-request"](https://help.github.com/articles/using-pull-requests/) ayant un nom significatif et, au besoin, avec un commentaire ou une description. L'équipe Poppy étudira votre modification dès que possible afin de la valider.
+request"](https://help.github.com/articles/using-pull-requests/) ayant un nom significatif et, au besoin, avec un commentaire ou une description. L'équipe Poppy étudiera votre modification dès que possible afin de la valider.
 
-(*une vidéo tutoriel seras bientot disponible.*)
+(*une vidéo tutoriel sera bientôt disponible.*)
 
 > **note**
 >
->s'il vous plait, essayez de faire des pull requests cohérantes: une ou plusieurs modification portant sur le même sujets, une seul nouvelle fonctionnalité, etc. Si vous désirez travailler sur plusiseurs fonctionnalité en même temps, s'il vous plait, utilisez plusieurs [branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) et séparez les pull requests pour faciliter le travail des 'libraries maintainers'.
+>s'il vous plait, essayez de faire des pull requests cohérantes: une ou plusieurs modifications portant sur le même sujet, une seul nouvelle fonctionnalité, etc. Si vous désirez travailler sur plusieurs fonctionnalités en même temps, s'il vous plait, utilisez plusieurs [branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) et séparez les pull requests pour faciliter le travail des 'libraries maintainers'.
