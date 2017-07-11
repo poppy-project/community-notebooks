@@ -7,13 +7,13 @@ A place to put notebooks which interract to a poppy creature
 <br/>
 Or read the [ipython notebook documentation](http://ipython.org/notebook.html)
 
-### Demo
+### [Demo](https://github.com/poppy-project/community-notebooks/tree/master/demo)
 Add here notebooks usefull for a demonstration of a poppy creature.
 
-### Tutorials-education
+### [Tutorials-education](https://github.com/poppy-project/community-notebooks/tree/master/tutorials-education)
 Add here notebooks with an educational benefit for the user.
 
-### Debug
+### [Debug](https://github.com/poppy-project/community-notebooks/tree/master/debug)
 Add here notebooks usefull for solving material issue (like broken wires) in a poppy creature
 
 ---
@@ -53,13 +53,13 @@ Cet endroit est un receuil de notebooks pour interagir avec une creature Poppy.
 <br/>
 Ou lisez la documentation [ipython notebook](http://ipython.org/notebook.html) (en)
 
-### Demo
+### [Demo](https://github.com/poppy-project/community-notebooks/tree/master/demo)
 Ajoutez ici les notebooks utiles pour réaliser des démonstrations.
 
-### Tutorials-education
+### [Tutorials-education](https://github.com/poppy-project/community-notebooks/tree/master/tutorials-education)
 Ajoutez ici les notebooks qui ont un bénéfice éducatif pour leur utilisateur.
 
-### Debug
+### [Debug](https://github.com/poppy-project/community-notebooks/tree/master/debug)
 Ajoutez ici les notebooks utiles pour résoudre des bug matériel (exemple: des fils cassés) dans une créature Poppy.
 
 ___
